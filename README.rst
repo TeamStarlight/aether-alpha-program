@@ -16,7 +16,7 @@ The Aether platform is a system of applications and utilities for developers to 
 
 In that regard, the Aether platform is an SDK for satellite analytics and framework for mobile end user applications.
 
-Our data platform documentation aims to answer many of your questions: https://github.com/davidbernat/aether-alpha-program/edit/master/README.md
+Our data platform documentation aims to answer many of your questions: https://davidbernat.github.io/aether-user/html/index.html
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Show me how easy Aether can be.
@@ -80,3 +80,5 @@ d) how to run processing code in the cloud
 e) basics of remote sensing and the Normalized Differential Vegetative Index
 f) how to publish applications for mobile devices.
 
+What will you use Aether for?
+Start now: https://davidbernat.github.io/aether-user/html/index.html
