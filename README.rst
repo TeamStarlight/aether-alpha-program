@@ -1,4 +1,5 @@
-# Aether Alpha Program
+Aether Alpha Program
+====================
 
 Welcome to Aether!
 
@@ -6,7 +7,8 @@ This repository serves as the primary public interface for all users of the Aeth
 
 You can post messages to this public repository through the "Issues" tab above to list feature requests, bug problems, or otherwise discuss your needs for remote sensing, satellite imagery, and geospatial data. We are here to build a community around users of these technologies and to foster great development.
 
-# What is Aether?
+What is Aether?
+===============
 
 So glad you asked! See, we're off to a great start.
 
@@ -14,10 +16,11 @@ The Aether platform is a system of applications and utilities for developers to 
 
 In that regard, the Aether platform is an SDK for satellite analytics and framework for mobile end user applications.
 
-##### Our data platform documentation aims to answer many of your questions: https://github.com/davidbernat/aether-alpha-program/edit/master/README.md
+Our data platform documentation aims to answer many of your questions: https://github.com/davidbernat/aether-alpha-program/edit/master/README.md
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Show me how easy Aether can be.
-
+Show me how easy Aether can be.
+===============================
 
 1) Get the developer software using pip:
 
@@ -61,7 +64,7 @@ In that regard, the Aether platform is an SDK for satellite analytics and framew
     as_numpy = spacetime.as_numpy()
 
 
-.. figure:: _static/introduction_to_aether_rgb.png
+.. figure:: introduction_to_aether_rgb.png
     :scale: 35 %
     :alt: Sweet California corn fields and the city of Imperial, CA (pop. 17,000), Spring 2014.
     :align: center
