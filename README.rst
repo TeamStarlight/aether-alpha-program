@@ -18,13 +18,13 @@ In that regard, the Aether platform is an SDK for satellite analytics and framew
 
 Our data platform documentation aims to answer many of your questions. The best place to start is our Medium article which introduces our platform and links to both the software documentation and Aether Lightning Quickstart for new users.
 
-Medium Article Introduction:
+1) Introduction, our Medium article:
 
 https://medium.com/starlightteam/introducing-aether-a-new-data-platform-for-painlessly-accessing-satellite-imagery-dc1356d0ad9b
 
-Software Documentation: docs.runsonaether.com
+2) Software Documentation: http://docs.runsonaether.com
 
-Aether Lightning Quickstart for Developers: http://docs.runsonaether.com/html/introduction_to_aether.html
+3) Aether Lightning Quickstart for Developers: http://docs.runsonaether.com/html/introduction_to_aether.html
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
